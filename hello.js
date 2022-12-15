@@ -1,3 +1,5 @@
 function say_hi(name) {
-  alert("hello " + name);
+  console.log("hello " + name);
 }
+
+say_hi('rebecca');
